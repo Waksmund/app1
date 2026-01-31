@@ -1,4 +1,4 @@
-FILEPATH = '.venv/todos.txt' #constants
+FILEPATH = 'todos.txt' #constants
 
 def get_todos(filepath=FILEPATH):
     #docstring

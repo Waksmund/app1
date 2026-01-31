@@ -1,0 +1,7 @@
+mop
+clean
+vacuum the floor
+open the windows
+close the door
+feed the fish
+walk the dog
